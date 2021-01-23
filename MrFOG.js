@@ -28,7 +28,7 @@ MrFOG.on("MrFOG", () => {
 MrFOG.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!help");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
@@ -37,14 +37,14 @@ MrFOG.on("message", msg => {
 MrFOG1.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
 MrFOG2.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!help");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
@@ -53,13 +53,13 @@ MrFOG2.on("message", msg => {
 MrFOG3.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });MrFOG.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!help");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
@@ -68,13 +68,13 @@ MrFOG3.on("message", msg => {
 MrFOG4.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });MrFOG5.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!help");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
@@ -83,14 +83,14 @@ MrFOG4.on("message", msg => {
 MrFOG6.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
 MrFOG7.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!help");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
@@ -99,14 +99,14 @@ MrFOG7.on("message", msg => {
 MrFOG8.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
 MrFOG9.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!help");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
@@ -115,13 +115,13 @@ MrFOG9.on("message", msg => {
 MrFOG10.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });MrFOG11.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!help");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
@@ -130,13 +130,13 @@ MrFOG10.on("message", msg => {
 MrFOG12.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });MrFOG13.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!help");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
@@ -145,58 +145,58 @@ MrFOG12.on("message", msg => {
 MrFOG14.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
 MrFOG15.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });MrFOG16.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });MrFOG17.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });MrFOG18.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });MrFOG19.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });MrFOG20.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("E!lock");
+      msg.channel.send("qarzar bwyt am spama ");
     }, 100);
   }
 });
 
-MrFOG.login("Nzk4MTU4NTIzMTEyMjI2ODI2.X_w9DA.noxr6-LHBRiksaTQVplEKF7q4sw");
-MrFOG1.login("")
-MrFOG2.login("");
-MrFOG3.login("")
-MrFOG4.login("");
-MrFOG5.login("")
-MrFOG6.login("");
-MrFOG7.login("")
-MrFOG8.login("");
-MrFOG9.login("")
+MrFOG.login("ODAyNjI2NDkxNzc4OTkwMTYw.YAx-lA.CUMjV6M0fiDcFTADEPwnEbg-KRc");
+MrFOG1.login("ODAyNjI2MDE0MTE0NDgwMTg4.YAx9-Q.OJrgGBWf91tNSamUTtcaCnuWAvE")
+MrFOG2.login("ODAyNjI1MzUyMzMyNDc2NDI3.YAx9eg.6qwsvxuqDtt7sCJJtSkjtKm493A");
+MrFOG3.login("ODAyNjI0NTY4ODM2NjIwMzY5.YAx80A.fdRPCZtBXqhoCxizvgBqE6-D2fM")
+MrFOG4.login("ODAyNjIzOTcxNzY0NzMxOTg1.YAx8Lw.0yTrqwGs4KEHfpsVMwjXd0ycnMA");
+MrFOG5.login("ODAyNjIzMzAzODAxNTAzODA2.YAx7ow.0qfjvAnltooFJR6sPmy6itMc8SU")
+MrFOG6.login("ODAyNjIyNzE0OTk3MjQzOTM1.YAx68w.N4pup4ywXMoiAz3uznIQB5UYCy8");
+MrFOG7.login("ODAyNjIxNzQyNjM5MDg3Njg3.YAx6Ww.oSAZeulsdEolz1suKTrZCHM1rNw")
+MrFOG8.login("ODAyNjIxMTExNDY3NjM4ODE1.YAx5jQ.4lXNezzi2fpisTwqvGUPNFOJHDA");
+MrFOG9.login("ODAyNjExODAxMTIzNTg2MDYw.YAx46Q.1H7IiE-zPTjPAyqsr5GekW_6Mhg")
 MrFOG10.login("");
 MrFOG11.login("")
 MrFOG12.login("");
