@@ -28,7 +28,7 @@ MrFOG.on("MrFOG", () => {
 MrFOG.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya ");
+      msg.channel.send("%server ");
     }, 100);
   }
 });
@@ -37,14 +37,14 @@ MrFOG.on("message", msg => {
 MrFOG1.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });
 MrFOG2.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });
@@ -53,13 +53,13 @@ MrFOG2.on("message", msg => {
 MrFOG3.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("qarzar bwyt am spama ");
+      msg.channel.send("%server ");
     }, 100);
   }
 });MrFOG.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });
@@ -68,13 +68,13 @@ MrFOG3.on("message", msg => {
 MrFOG4.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });MrFOG5.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya ");
+      msg.channel.send("%server ");
     }, 100);
   }
 });
@@ -83,14 +83,14 @@ MrFOG4.on("message", msg => {
 MrFOG6.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("qarzar bwyt am spama ");
+      msg.channel.send("%server ");
     }, 100);
   }
 });
 MrFOG7.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya ");
+      msg.channel.send("%server ");
     }, 100);
   }
 });
@@ -99,14 +99,14 @@ MrFOG7.on("message", msg => {
 MrFOG8.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });
 MrFOG9.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });
@@ -115,13 +115,13 @@ MrFOG9.on("message", msg => {
 MrFOG10.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya ");
+      msg.channel.send("%server ");
     }, 100);
   }
 });MrFOG11.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });
@@ -130,13 +130,13 @@ MrFOG10.on("message", msg => {
 MrFOG12.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya ");
+      msg.channel.send("%server ");
     }, 100);
   }
 });MrFOG13.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya ");
+      msg.channel.send("%server");
     }, 100);
   }
 });
@@ -145,44 +145,44 @@ MrFOG12.on("message", msg => {
 MrFOG14.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya ");
+      msg.channel.send("%server");
     }, 100);
   }
 });
 MrFOG15.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });MrFOG16.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya ");
+      msg.channel.send("%server ");
     }, 100);
   }
 });MrFOG17.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });MrFOG18.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });MrFOG19.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });MrFOG20.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("xwshki awa bgem rqi la flya");
+      msg.channel.send("%server");
     }, 100);
   }
 });
