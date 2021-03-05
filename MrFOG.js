@@ -56,7 +56,8 @@ MrFOG3.on("message", msg => {
       msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
-});MrFOG.on("message", msg => {
+});
+MrFOG.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
       msg.channel.send("fly upp SHEX RAWA");
@@ -71,7 +72,8 @@ MrFOG4.on("message", msg => {
       msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
-});MrFOG5.on("message", msg => {
+});
+MrFOG5.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
       msg.channel.send("fly upp SHEX RAWA");
@@ -118,7 +120,8 @@ MrFOG10.on("message", msg => {
       msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
-});MrFOG11.on("message", msg => {
+});
+MrFOG11.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
       msg.channel.send("fly upp SHEX RAWA");
@@ -133,7 +136,8 @@ MrFOG12.on("message", msg => {
       msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
-});MrFOG13.on("message", msg => {
+});
+MrFOG13.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
       msg.channel.send("fly upp SHEX RAWA");
@@ -155,7 +159,8 @@ MrFOG15.on("message", msg => {
       msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
-});MrFOG16.on("message", msg => {
+});
+MrFOG16.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
       msg.channel.send("fly upp SHEX RAWA");
@@ -167,19 +172,22 @@ MrFOG15.on("message", msg => {
       msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
-});MrFOG18.on("message", msg => {
+});
+MrFOG18.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
       msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
-});MrFOG19.on("message", msg => {
+});
+MrFOG19.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
       msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
-});MrFOG20.on("message", msg => {
+});
+MrFOG20.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
       msg.channel.send("fly upp SHEX RAWA");
