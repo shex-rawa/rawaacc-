@@ -28,7 +28,7 @@ MrFOG.on("MrFOG", () => {
 MrFOG.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server ");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
@@ -37,14 +37,14 @@ MrFOG.on("message", msg => {
 MrFOG1.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
 MrFOG2.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
@@ -53,13 +53,13 @@ MrFOG2.on("message", msg => {
 MrFOG3.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server ");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });MrFOG.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
@@ -68,13 +68,13 @@ MrFOG3.on("message", msg => {
 MrFOG4.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });MrFOG5.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server ");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
@@ -83,14 +83,14 @@ MrFOG4.on("message", msg => {
 MrFOG6.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server ");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
 MrFOG7.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server ");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
@@ -99,14 +99,14 @@ MrFOG7.on("message", msg => {
 MrFOG8.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
 MrFOG9.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
@@ -115,13 +115,13 @@ MrFOG9.on("message", msg => {
 MrFOG10.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server ");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });MrFOG11.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
@@ -130,13 +130,13 @@ MrFOG10.on("message", msg => {
 MrFOG12.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server ");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });MrFOG13.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
@@ -145,53 +145,53 @@ MrFOG12.on("message", msg => {
 MrFOG14.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
 MrFOG15.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });MrFOG16.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server ");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });MrFOG17.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });MrFOG18.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });MrFOG19.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });MrFOG20.on("message", msg => {
   if (msg.content === ".") {
     setInterval(() => {
-      msg.channel.send("%server");
+      msg.channel.send("fly upp SHEX RAWA");
     }, 100);
   }
 });
 
-MrFOG.login("");
-MrFOG1.login("")
-MrFOG2.login("");
-MrFOG3.login("")
-MrFOG4.login("");
+MrFOG.login("ODE3MzE5MTUzMzA0MDc2Mjkz.YEHyNg._qNpPv3oSuzfe4uwLGa5LRVtTkY");
+MrFOG1.login("ODE3MzE4NTY3NTMxMjQ5Njk2.YEHxjQ.B5cC-ezpwWEjgWFIkjNGa12gavg")
+MrFOG2.login("ODE3MzE4MDEwNjIwNDc3NDYx.YEHw-A.BOpHlexg2qD7uuX69P-kMXQ-7cs");
+MrFOG3.login("ODE3MzE3Mzk4NjA4NDc4MjM4.YEHwWg.k8EbB83ymQVS4YDFgEhziXa1C2E")
+MrFOG4.login("ODE1NjcxMDkxODc1Njc2MTgw.YEHv1A.RzaJaEHNPXWt-2jgZCwRXNUO-N8");
 MrFOG5.login("")
 MrFOG6.login("");
 MrFOG7.login("")
